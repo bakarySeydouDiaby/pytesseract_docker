@@ -5,7 +5,7 @@ Nous allons cloner un repos github (https://github.com/ricktorzynski/ocr-tessera
 
 ## quelques commandes docker :
 `docker compose up` pour lancer le container \
-`docker exec -it tesseract-python_app_1 bash` pour acceder au container et lancer notre script python
+`docker exec -it tesseract-python_app_1 bash` pour acceder au container et lancer notre script python \
 `python 1_script.py` pour executer le script python et generer du texte à partir de l'image
 
 ## quelques liens 

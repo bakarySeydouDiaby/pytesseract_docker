@@ -19,8 +19,8 @@ def main():
 	print_data(data_eng)
 	print("******************fra**********************")
 	print_data(data_fra)
-	output_file("1_eng.txt", data_eng)
-	output_file("2_fra.txt", data_fra)
+	output_file("1_text_eng_genere.txt", data_eng)
+	output_file("2_text_fra_genere.txt", data_fra)
 
 # programme pricipal
 if  __name__ == '__main__':

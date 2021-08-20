@@ -1,2 +1,4 @@
 pytesseract
 Pillow
+pandas
+jupyter
